@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1735204071990",
+    "description": "image ",
+    "imageUrl": "/uploads/1735204071988.jpg",
+    "likes": 1,
+    "comments": [
+      {
+        "text": "Good moring ",
+        "by": "Anonymous"
+      }
+    ]
+  },
+  {
+    "id": "1735198141598",
+    "description": "studing ",
+    "imageUrl": "/uploads/1735198141590.jpg",
+    "likes": 1,
+    "comments": [
+      {
+        "text": "motivating",
+        "by": "Anonymous"
+      }
+    ]
+  },
+  {
+    "id": "1735192189964",
+    "description": "banner",
+    "imageUrl": "/uploads/1735192189949.png",
+    "likes": 3,
+    "comments": [
+      {
+        "text": "NICE !!",
+        "by": "Anonymous"
+      },
+      {
+        "text": "nice lines !!",
+        "by": "Anonymous"
+      }
+    ]
+  },
+  {
+    "id": "1735188493796",
+    "description": "charms",
+    "imageUrl": "/uploads/1735188493732.png",
+    "likes": 4,
+    "comments": [
+      {
+        "text": "nice",
+        "by": "Anonymous"
+      },
+      {
+        "text": "cutie",
+        "by": "Anonymous"
+      }
+    ]
+  },
+  {
+    "id": "1735096696645",
+    "description": "kitten",
+    "imageUrl": "/uploads/1735096696625.png",
+    "likes": 2,
+    "comments": [
+      {
+        "text": "cutiee",
+        "by": "Anonymous"
+      },
+      {
+        "text": "slwwpy cat",
+        "by": "Anonymous"
+      }
+    ]
+  }
+]
